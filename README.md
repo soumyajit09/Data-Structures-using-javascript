@@ -5,3 +5,4 @@
 # 4. Linked Lists
 # 5. Stacks
 # 6. Queues
+# 7. Trees
